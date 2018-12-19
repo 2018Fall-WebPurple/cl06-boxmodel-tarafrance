@@ -1,0 +1,25 @@
+/*
+*Tara Frane
+*Due Date
+*Project Name and Description
+*/
+
+/* The Universal selector */
+
+*{ margin: 0; padding: 0;}
+
+/* Body attributes here */
+
+body { border: 2px dotted green;
+} 
+p { border: thin dashed purple;
+    margin: 25px 10px 25px 10px;
+    padding: 10px 25px 10px 25px;
+}
+main { border: 3px solid blue;
+       margin: 15px 20px 15px 20px;
+}
+h1 { border: thin dashed red;
+    margin: 20px 5px;
+    padding: 10px 5px;
+}
